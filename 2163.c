@@ -14,7 +14,7 @@
 /*
 int cut(int n,int m) {
 	int ans;
-	
+	ans=(n-1)*(m-1);
 	return ans;
 };
 
